@@ -30698,18 +30698,17 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://geo.dailymotion.com/player/x14ru6.html?video=xa63dow",
-        "https://embed.saohgdasregions.fun/embed2/willax.html",
         "https://willax.pe/en-vivo",
+        "https://geo.dailymotion.com/player/x14ru6.html?video=xa63dow",
         "https://geo.dailymotion.com/player/x14ru6.html?video=k2eC5HQOmJKHuUE1muC",
         "https://live.saohgdasregions.fun/latam4.php?stream=153_#",
         "https://www.tvenvivo.net/willax-television/",
         "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
-        "https://vmvpd.short.gy/ВТ/wɪʎaχ",
-        "https://vmvpd.short.gy/ЭС/wɪʎaχ",
-        "https://vmvpd.short.gy/Т3Б2/wɪʎaχ"
+        "https://embed.saohgdasregions.fun/embed2/willax.html"
       ],
       "m3u8_url": [
+        "http://181.224.255.210:8001/play/a0s7/index.m3u8?hls",
+        "http://8.243.126.131:8000/play/a01s/index.m3u8?hls",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429020"
       ],
       "yt_id": "UCort3mldTtMErPqprSlSfng",
@@ -30754,13 +30753,11 @@
         "https://amazoniatvr.com/",
         "https://agro-tv.ro/tv-live/",
         "https://ecuatvhd.github.io/ecuatv/clarp.html?url=https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-        "https://iptv-web.app/PE/ATVPlus.pe/",
-        "https://vmvpd.short.gy/ВТ/Андский+",
-        "https://vmvpd.short.gy/ЭС/Андский+",
-        "https://vmvpd.short.gy/ВТ/Андский",
-        "https://vmvpd.short.gy/ЭС/Андский"
+        "https://iptv-web.app/PE/ATVPlus.pe/"
       ],
       "m3u8_url": [
+        "http://8.243.126.131:8000/play/a01z/index.m3u8?hls",
+        "http://181.224.255.210:8001/play/a0s6/index.m3u8?hls",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429004",
         "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429004",
@@ -34697,6 +34694,7 @@
       "iframe_url": [
         "https://teleon.tv/ec/live-tv/asomavision-ec/",
         "https://musicacristiana.com.ar/tv/asomavision-tv.htm",
+        "https://ecutvhd--hernanlb94.replit.app/",
         "https://stream-xhd.com/live1.php?stream=dsports",
         "https://streamx-hd.com/live1.php?stream=dsports2",
         "https://streamx-hd.com/live1.php?stream=dsportsPLUS",
@@ -34730,6 +34728,7 @@
       ],
       "m3u8_url": [
         "http://190.117.20.37:8000/play/a08d/index.m3u8",
+        "https://github.com/ecuatvhd/ecuatv/blob/main/loa.html",
         "https://www.cablevisionhd.com/stream/directvsports.php"
       ],
       "yt_id": "",
