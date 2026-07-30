@@ -6938,7 +6938,7 @@
     "categoría": "news"
   },
   "VTV-Gujarati": {
-    "nombre": "VTV Gujarati",
+    "nombre": "VTV Gujarati - Telediario Digital",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -6946,10 +6946,10 @@
         "https://www.vtvgujarati.com/live-tv"
       ],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCkZ-wWxq46THSmabz4Xbb3A",
+      "yt_embed": "KX_nKfKPuR0?",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "https://www.youtube.com/@TelediarioDigitaltdtv"
     },
     "sitio_oficial": "https://www.vtvgujarati.com/live-tv",
     "país": "ar",
