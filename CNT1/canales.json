@@ -5704,14 +5704,18 @@
     "país": "ar",
     "categoría": "news"
   },
-  "prensa-tv": {
-    "nombre": "Prensa Tv",
+  "prensa-tv-quantica-tv": {
+    "nombre": "Prensa - QuanticaTv",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://player.kick.com/prensatv"
+        "https://player.kick.com/prensatv",
+        "https://www.5900.tv/video/quantica-tv",
+        "https://www.teleonline.tv/canal/quantica-tv/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
