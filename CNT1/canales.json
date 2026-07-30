@@ -30746,6 +30746,7 @@
     "señales": {
       "iframe_url": [
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1",
+        "https://www.atv.pe/envivo-atv/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=2",
         "https://embed.saohgdasregions.fun/embed2/atv.html",
         "https://moviedays.top/embed-live1.php?v=atv",
@@ -30758,7 +30759,8 @@
         "https://amazoniatvr.com/",
         "https://agro-tv.ro/tv-live/",
         "https://ecuatvhd.github.io/ecuatv/clarp.html?url=https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-        "https://iptv-web.app/PE/ATVPlus.pe/"
+        "https://iptv-web.app/PE/ATVPlus.pe/",
+        "https://www.nvivu.com/watch/atv/af461fed-9da4-4e19-8515-6f21a0e771ee"
       ],
       "m3u8_url": [
         "http://8.243.126.131:8000/play/a01z/index.m3u8?hls",
