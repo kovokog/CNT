@@ -30207,12 +30207,11 @@
     "señales": {
       "iframe_url": [
         "https://irtp-player.iblups.com/tvperuhd",
-        "https://iblups.com/e_tvperu73",
+        "https://irtp-player.iblups.com/tvperuhd",
         "https://irtp-player.iblups.com/tvperunoticias",
-        "https://iblups.com/e_tvperuHD",
         "https://irtp-player.iblups.com/tvperuinternacional",
-        "https://vmvpd.short.gy/ВТ/Перу",
-        "https://vmvpd.short.gy/ЭС/Перу",
+        "https://www.irtpplay.gob.pe/tvperu/envivo",
+        "https://deporflix.pe/canales/tv-peru-2/",
         "https://iblups.com/e_tvperu72",
         "https://iblups.com/mastertvangra",
         "https://iblups.com/metaleitortv2",
@@ -30339,6 +30338,7 @@
       "iframe_url": [
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
         "https://tvivu.com/embed/america-television",
+        "https://stream-xhd.com/live1.php?stream=americatv",
         "https://regionales.saohgdasregions.fun/stream.php?canal=americatv&target=2",
         "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=20_",
         "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
@@ -30819,7 +30819,9 @@
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/latinanoticias",
-        "https://ecuatvhd.github.io/ecuatv/clarp.html?url=",
+        "https://embed.saohgdasregions.fun/embed2/espnpremiumlat.php",
+        "https://embed.saohgdasregions.fun/embed/espnpremiumlat.php",
+        "https://embed.saohgdasregions.fun/embed/atv.php",
         "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=1",
         "https://moviedays.top/embed-live1.php?v=latina",
@@ -30833,13 +30835,13 @@
         "https://atvenvivo.com/en-vivo/latina.php.html",
         "https://www.futxi.com/en-vivo/latina-television/",
         "http://tvonline.2fer.top/peru/latina",
-        "https://vmvpd.short.gy/Латина",
-        "https://vmvpd.short.gy/ВТ/Латина",
+        "https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa3error code: 521/latina/latina.smil/playlist.m3u8?dpssid=b2109516065069f19beeaeba7&sid=ba5t1l1xb2188362367069f19beeaeba6&ndvc=1",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429010",
-        "https://vmvpd.short.gy/ВТ/Латина"
+        "https://ecuatvhd.github.io/ecuatv/clarp.html?url=src="
       ],
       "m3u8_url": [
         "https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+        "https://redirector.rudo.video/hls-video/567ffde3fa3error code: 521/latina/latina.smil/playlist.m3u8",
         "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429010",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429009",
