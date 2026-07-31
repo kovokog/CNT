@@ -30294,7 +30294,7 @@
     "señales": {
       "iframe_url": [
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
-        "https://tvivu.com/watch/america-television",
+        "https://tvivu.com/embed/america-television",
         "https://regionales.saohgdasregions.fun/stream.php?canal=americatv&target=2",
         "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=20_",
         "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
@@ -30309,6 +30309,7 @@
         "https://www.liratv.it/streaming/",
         "https://iptv-web.app/IT/LiraTV.it/",
         "https://liratv.es/",
+        "https://tvivu.com/watch/america-television",
         "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e",
         "https://vmvpd.short.gy/ЭС/Америка"
       ],
@@ -30717,7 +30718,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://tvivu.com/watch/atv-12",
+        "https://tvivu.com/embed/atv-12",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1",
         "https://www.atv.pe/envivo-atv/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=2",
