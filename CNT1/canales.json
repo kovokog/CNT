@@ -426,6 +426,7 @@
     "logo": "https://i.imgur.com/gPteww8.jpeg",
     "señales": {
       "iframe_url": [
+        "https://tvivu.com/embed/k-drama-es",
         "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15637",
         "https://kufa-tv.vercel.app/live/dekhoprime-premiumtv-telemundo",
         "https://kufa-tv.vercel.app/",
@@ -12761,6 +12762,11 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://tvivu.com/embed/cctv-2",
+        "https://tvivu.com/embed/cctv-9",
+        "https://tvivu.com/embed/cctv-11",
+        "https://tvivu.com/embed/cctv-13",
+        "https://tvivu.com/embed/cctv-15",
         "https://ecuatvhd.github.io/ecuatv/clarp.html?url=https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
         "https://www.cctvplus.com/live/channel1.shtml",
         "https://iptv345.com/?act=play&token=8e8e21616e059e7ece6e23f88d2e20af&tid=itv&id=7",
@@ -12911,6 +12917,8 @@
     "señales": {
       "iframe_url": [
         "https://espanol.cgtn.com/en-directo",
+        "https://tvivu.com/embed/cgtn-spanish",
+        "https://tvivu.com/embed/voa-tv-china",
         "https://hlsplayer.net/embed?type=m3u8&src=https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://www.hlsplayer.org/play?url=https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://livepush.io/hlsplayer/index.html?src=https%3A%2F%2Fhls-harbor-livepush.akamaized.net%2Flive_cdn%2FnsqIStpj8PaG-Ev%2FemcQJ0pGpremocy%2Findex.m3u8",
@@ -13118,7 +13126,24 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.fengshows.com/live"
+        "https://www.fengshows.com/live",
+        "https://tvivu.com/embed/xinjiang-tv-3",
+        "https://tvivu.com/embed/guangzhou-tv",
+        "https://tvivu.com/embed/hebei-tv",
+        "https://tvivu.com/embed/harbin-movie-channel",
+        "https://tvivu.com/embed/chifeng-comprehensive-news-chanel",
+        "https://tvivu.com/embed/china-travel",
+        "https://tvivu.com/embed/discovering-china",
+        "https://tvivu.com/embed/peppa-pig",
+        "https://tvivu.com/embed/harbin-movie-channel",
+        "https://tvivu.com/embed/guangdong-satellite-tv",
+        "https://tvivu.com/embed/tv-brics-chinese",
+        "https://tvivu.com/embed/xinjiang-tv-2",
+        "https://tvivu.com/embed/i",
+        "https://tvivu.com/embed/tonghua-tv",
+        "https://tvivu.com/embed/hunan-tv",
+        "https://tvivu.com/embed/xizang-tv-tibetan",
+        "https://tvivu.com/embed/zhejiang-international-channel"
       ],
       "m3u8_url": [
         "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
@@ -17043,7 +17068,9 @@
         "https://la16hd.com/la1tve.php",
         "https://iptv-web.app/ES/La1.es/",
         "http://jawaltv.com/player/?id=https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+        "https://tvivu.com/embed/la-1",
         "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/",
+        "https://tvivu.com/embed/la-2-es",
         "http://jawaltv.com/player/?id=https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
         "http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/5623",
         "https://iptv-web.app/ES/TVEInternacionalAmerica.es/"
@@ -17169,6 +17196,7 @@
         "https://tele-libre.org/en-vivo-online/antena-3/embed2.php",
         "https://www.livehdtv.com/antena-3-spain/",
         "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM=",
+        "https://tvivu.com/embed/antena-3",
         "https://www.livehdtv.com/yayin/?kanal=663&yayin=&guvenlik=$2y$10$l1Y9s89LsQUj354UEXpAu.24is0wgdU5R9J8DGKwwlWaef2kYoFFy"
       ],
       "m3u8_url": [
@@ -17233,11 +17261,12 @@
     "categoría": "news"
   },
   "televisioncanaria": {
-    "nombre": "TelevisionCanaria",
+    "nombre": "TelevisionCanaria - Todo-Novelas",
     "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
-        "https://rtvc.es/en-directo/"
+        "https://rtvc.es/en-directo/",
+        "https://tvivu.com/embed/todo-novelas"
       ],
       "m3u8_url": [],
       "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
