@@ -15416,6 +15416,8 @@
         "https://livestreamlinks.net/onlinetv/ecuador/tv-color-canal-36#google_vignette",
         "https://www.trodi.dev/tv/EC/TVColorCanal36.ec",
         "https://tvcolorcanal36.com/tv-color-canal-36-en-vivo/",
+        "https://icanlive.tv/live/33263/altura-tv-pe.html",
+        "https://www.tv.kukooo.com/?channel=1-1-international-hd-720p",
         "https://tvinsur.com/ecuador/ecuavisa/"
       ],
       "m3u8_url": [
@@ -15462,15 +15464,19 @@
     "señales": {
       "iframe_url": [
         "https://video.compuwebecuador.com/hybrid-stream-video-widget/caprichotv",
-        "https://www.ecuadortv.ec/wp-content/medios/stream.php",
-        "https://www.ecuadortv.ec/",
-        "https://v2.ssh101.com/detailng.php?id=tv3ad1",
+        "https://player.tdtchannels.com/television/EcuadorTVEcuador",
+        "https://tvivu.com/watch/tv-kaliente",
+        "https://globoview.cam/directorio/peru/tv-kaliente/",
         "https://v2.ssh101.com/detailng.php?id=niggerstv",
         "https://play4you.icu/e/7tzynch5ex",
         "https://livestreamlinks.net/en/onlinetv/ecuador/capricho-tv",
         "https://livestreamlinks.net/onlinetv/ecuador/sono-onda-tv#google_vignette",
         "https://livestreamlinks.net/onlinetv/ecuador/uka-tv",
-        "https://tvinsur.com/ecuador/ecuador-tv/"
+        "https://tvinsur.com/ecuador/ecuador-tv/",
+        "https://player.teleon.tv/do/channel/inti-tv-ec",
+        "https://www.tdtchannels.com/catalogo/television/EcuadorTVEcuador/",
+        "https://www.ecuadortv.ec/wp-content/medios/stream.php",
+        "https://www.ecuadortv.ec/"
       ],
       "m3u8_url": [
         "https://samson.streamerr.co:8081/shogun/index.m3u8",
@@ -30288,6 +30294,7 @@
     "señales": {
       "iframe_url": [
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
+        "https://tvivu.com/watch/america-television",
         "https://regionales.saohgdasregions.fun/stream.php?canal=americatv&target=2",
         "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=20_",
         "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
@@ -30710,6 +30717,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://tvivu.com/watch/atv-12",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1",
         "https://www.atv.pe/envivo-atv/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=2",
