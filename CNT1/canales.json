@@ -8033,7 +8033,7 @@
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
-        "https://www.dailymotion.com/embed/video/x9n2qyk?syndication=278713",
+        "https://www.dailymotion.com/embed/video/xarufnm?syndication=278713",
         "https://www.reduno.com.bo/play",
         "https://www.reduno.com.bo",
         "https://rudo.video/live/reduno",
@@ -8041,6 +8041,8 @@
         "https://www.boliviapuntotv.com/red-uno/"
       ],
       "m3u8_url": [
+        "http://190.181.18.82:4111/play/a005/index.m3u8",
+        "http://190.181.18.82:4111/play/a006/index.m3u8",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
       ],
       "yt_id": "",
@@ -8060,7 +8062,7 @@
         "https://mdstrm.com/live-stream/692b7e7ac84183fcf9e3462d?jsapi=true&player=69132f19f5398246a0193ebe",
         "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
         "https://redpalenque.com/",
-        ",https://www.ntn24.com/en-vivo",
+        "https://www.ntn24.com/en-vivo",
         "https://www.dailymotion.com/video/x7vsfua",
         "https://television.unitel.bo",
         "https://www.boliviapuntotv.com/unitel/",
@@ -8069,7 +8071,7 @@
         "https://iptv-web.app/BO/UnitelCochabamba.bo/"
       ],
       "m3u8_url": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
         "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
@@ -8077,8 +8079,8 @@
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://github.com/iptv-org/iptv/blob/93870526abb45c0ed0180ab2151c69cf9c96b0a0/streams/bo.m3u#L189",
+      "twitch_id": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
     },
     "sitio_oficial": "https://television.unitel.bo/",
     "país": "bo",
@@ -8269,7 +8271,7 @@
     "categoría": "news"
   },
   "atb": {
-    "nombre": "ATB - RedCCTV.bo - Radiosangabrielbolivia",
+    "nombre": "ATB - RedCCTV.bo - Radiosangabrielbolivia- EL DEBER",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
@@ -8279,9 +8281,13 @@
         "https://radiosangabriel.org.bo/en-vivo/",
         "https://www.boliviapuntotv.com/atb/",
         "https://redcctvbolivia.com/",
-        "https://www.trodi.dev/tv/BO/RedCCTV.bo"
+        "https://www.trodi.dev/tv/BO/RedCCTV.bo",
+        "https://eldeber.com.bo/"
       ],
       "m3u8_url": [
+        "https://stream.atb.com.bo/live/daniel/index.m3u8",
+        "https://master.tucableip.com/eldebertv/index.m3u8",
+        "http://186.121.206.197/live/daniel/index.m3u8",
         "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w897107554.m3u8"
       ],
       "yt_id": "",
@@ -8358,19 +8364,26 @@
     "categoría": "news"
   },
   "PAT-Community": {
-    "nombre": "PAT Community",
+    "nombre": "PAT Community - Dmoda Channel",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
         "https://www.boliviapuntotv.com/pat/",
         "https://serenotv.com/video/canal-pat-hd/embed/",
         "https://www.redpat.tv/envivolpz",
+        "https://master.tucableip.com/dmoda/embed.html?realtime=true&mute=false",
+        "https://dmoda.com.bo/",
+        "https://dialogolarededucativa.com/en-vivo/",
+        "https://deltaboliviainstitucion.org/delta-tv/",
         "https://serenotv.com/video/canal-pat-hd/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://master.tucableip.com/dmoda/index.m3u8",
+        "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8"
+      ],
       "yt_id": "UCepJH-129qesEsiwHuD_z3w",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/iptv-org/iptv/blob/93870526abb45c0ed0180ab2151c69cf9c96b0a0/streams/bo.m3u#L189",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.redpat.tv/envivoscz",
