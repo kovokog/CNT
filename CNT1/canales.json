@@ -446,7 +446,7 @@
         "http://jawaltv.com/player/?id=http://8.243.126.131:8000/play/a05a/index.m3u8",
         "http://jawaltv.com/player/?id=http://177.10.184.193:8000/play/a0fc/index.m3u8",
         "https://m90play2026.blogspot.com/p/520365.html?url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd&k1=45bbd582f220f438f896450d8306a3f2&k2=582c6ba7f64bbc0f2d91c6b0c265760c",
-        "https://ecuatvhd.github.io/ecuatv/clarp.html?url=http://132.255.210.69:9000/play/a06i/index.m3u8?start=LIVE&end=END",
+        "http://132.255.210.69:9000/play/a06i/index.m3u8?start=LIVE&end=END",
         "http://66.102.126.10:8000/play/a076/index.m3u8?start=LIVE&end=END",
         "https://juanjuistream.uk/1.html",
         "https://juanjuistream.uk/telemundo.php",
@@ -639,7 +639,7 @@
   },
   "MYTIMES": {
     "nombre": "MY TIMES - +CINE",
-    "logo": "",
+    "logo": "https://ecuatvhd.github.io/ecuatv/clarp.html?url=",
     "señales": {
       "iframe_url": [
         "https://globoview.cam/directorio/haiti/radio-tele-4veh/",
@@ -8038,11 +8038,12 @@
         "https://www.reduno.com.bo",
         "https://rudo.video/live/reduno",
         "https://www.dailymotion.com/embed/video/k3IMZ2j8woY8WbCNDcM?syndication=278713",
+        "http://190.181.18.82:4111/play/a005/index.m3u8?start=LIVE&end=END",
         "https://www.boliviapuntotv.com/red-uno/"
       ],
       "m3u8_url": [
-        "http://190.181.18.82:4111/play/a005/index.m3u8",
-        "http://190.181.18.82:4111/play/a006/index.m3u8",
+        "http://190.181.18.82:4111/play/a005/index.m3u8?start=LIVE&end=END",
+        "http://190.181.18.82:4111/play/a006/index.m3u8?start=LIVE&end=END",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
       ],
       "yt_id": "",
