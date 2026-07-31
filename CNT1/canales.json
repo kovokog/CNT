@@ -44683,9 +44683,9 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.nbcnews.com/",
-        "https://www.cxtvlive.com/live-tv/dateline-nbc",
         "https://www.nbcchicago.com/watch/",
+        "https://www.nbcnews.com/watch#new-york",
+        "https://www.cxtvlive.com/live-tv/dateline-nbc",
         "https://www.nbc.com/live?brand=nbc-news&callsign=NBCNN"
       ],
       "m3u8_url": [
