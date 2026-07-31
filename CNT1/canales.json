@@ -426,7 +426,6 @@
     "logo": "https://i.imgur.com/gPteww8.jpeg",
     "señales": {
       "iframe_url": [
-        "https://tvivu.com/embed/k-drama-es",
         "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15637",
         "https://kufa-tv.vercel.app/live/dekhoprime-premiumtv-telemundo",
         "https://kufa-tv.vercel.app/",
@@ -455,7 +454,8 @@
         "https://juanjuistream.uk/2.html",
         "https://latamvidzfy.org/tvela1.php",
         "https://streamed.pk",
-        "https://streamx488.sbs/"
+        "https://streamx488.sbs/",
+        "https://tvivu.com/embed/k-drama-es"
       ],
       "m3u8_url": [
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
