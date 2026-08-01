@@ -41646,14 +41646,43 @@
     "nombre": "CNA",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://freetv.studio/embed/CNAOriginals.sg",
+        "https://nguoiviet.tv/aniplus/",
+        "https://icanlive.tv/live/26581/cna-3.html",
+        "https://www.mewatch.sg/channels/channel-5/97098",
+        "https://globoview.cam/directorio/estados-unidos/alkarma-tv-youth-english/"
+      ],
       "m3u8_url": [],
       "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
+      "yt_embed": "",
+      "yt_playlist": c
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.channelnewsasia.com/",
+    "país": "sg",
+    "categoría": "news"
+  },
+  "CNBCAsia-KCM-ZooMoo": {
+    "nombre": "CNBCAsia - KCM - ZooMoo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://freetv.studio/embed/CNBCAsia.sg",
+        "https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235",
+        "https://videoplayer.telvue.com/player/JE3UXmzl0PXvZeyRukb7TrxwYJrJPGYM/playlists/5399/stream/532?fullscreen=false",
+        "https://www.knoxcm.org/#/",
+        "https://freetv.studio/embed/ZooMoo.sg",
+        "https://bios-tv.com/watch/FX1.ir",
+        "https://famelack.com/tv/sg/cjno9NJJ87yGNT"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.channelnewsasia.com/",
+    "sitio_oficial": "https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235",
     "país": "sg",
     "categoría": "news"
   },
