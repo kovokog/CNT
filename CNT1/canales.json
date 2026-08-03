@@ -11019,7 +11019,6 @@
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
         "https://play.tdtchannels.com/television/NoticiasCaracolColombia",
         "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
-        "https://mdstrm.com/live-stream/632391734be92a791e2750e6?jsapi=true&autoplay=true&access_token=PEce54jr3YWVOcdQ8V2fJCeHhcPG2gdqs9nFAmQWaoASrq56BO1Ki8WhtfMZIbDaPAX9411VTO3&controls_bar[showFullscreen]=true",
         "https://tv.garden/co/ugDDmzcLdJhWCd",
         "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
         "https://www.chatytvgratis.net/caracol-colombia/",
@@ -31231,12 +31230,16 @@
     "categoría": "radio"
   },
   "canal-33-ayacucho-MangoTV-Drama-Official": {
-    "nombre": "canal 33 ayacucho - MangoTV Drama Official",
+    "nombre": "canal 33 ayacucho - Atlantisradiotv - MangoTV Drama Official",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
     "señales": {
       "iframe_url": [
+        "https://atlantisradiotv.com/",
+        "https://usmptv.pe/en-vivo",
         "https://www.canal33ayacucho.com/",
-        "https://www.youtube.com/channel/UCTulSfEm1c14WWRbSN-CNAQ/live"
+        "https://iptv-web.app/PE/#Canal25Ayacucho.pe",
+        "https://iptv-web.app/PE/Canal25Ayacucho.pe/",
+        "https://www.estacionesfm.com/pe/5024/radio-carabana"
       ],
       "m3u8_url": [
         "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
@@ -31244,8 +31247,8 @@
       ],
       "yt_id": "UCTulSfEm1c14WWRbSN-CNAQ",
       "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://www.youtube.com/channel/UCTulSfEm1c14WWRbSN-CNAQ/live",
+      "twitch_id": "livecanal33"
     },
     "sitio_oficial": "https://www.youtube.com/@MangoTVDramaOfficial",
     "país": "pe",
@@ -31272,30 +31275,10 @@
       ],
       "yt_id": "UCUhpu5MJQ_bjPkXO00jyxsw",
       "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://www.twitch.tv/yugioh_espanol",
+      "twitch_id": "yugioh_espanol"
     },
     "sitio_oficial": "https://www.youtube.com/@iQIYIofficial",
-    "país": "pe",
-    "categoría": "news"
-  },
-  "Intereconomía": {
-    "nombre": "💃🏻 Intereconomía 🌎",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.intereconomia.com/directo/"
-      ],
-      "m3u8_url": [
-        "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8",
-        "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
-      ],
-      "yt_id": "UCNKomgId0-uTA-vVLM9v1pw",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.youtube.com/@Intereconomiamedia",
     "país": "pe",
     "categoría": "news"
   },
@@ -31486,7 +31469,7 @@
     "categoría": "news"
   },
   "piura-plustv-Canal-Naranja": {
-    "nombre": "Piura Plustv Canal Naranja",
+    "nombre": "Piura Plustv- Canal Naranja",
     "logo": "https://bradmax.com/static/images/thankyou_endsplash.jpg",
     "señales": {
       "iframe_url": [
@@ -32597,6 +32580,30 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.facebook.com/VZTELEVISION/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "Intereconomía": {
+    "nombre": "💃🏻 Intereconomía 🌎",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.hlsplayer.net/embed?type=m3u8&src=https://s.emisoras.tv:8081/telerayo/index.m3u8",
+        "https://www.xtremo-stereo.com/tlnovelas-en-vivo/",
+        "https://www.intereconomia.com/directo/"
+      ],
+      "m3u8_url": [
+        "https://s.emisoras.tv:8081/telerayo/index.m3u8",
+        "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+        "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+        "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
+      ],
+      "yt_id": "UCNKomgId0-uTA-vVLM9v1pw",
+      "yt_embed": "",
+      "yt_playlist": "https://www.twitch.tv/shouttv",
+      "twitch_id": "shouttv"
+    },
+    "sitio_oficial": "https://www.youtube.com/@Intereconomiamedia",
     "país": "pe",
     "categoría": "news"
   },
