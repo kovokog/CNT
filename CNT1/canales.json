@@ -8030,8 +8030,8 @@
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
-        "https://www.dailymotion.com/embed/video/xarufnm?syndication=278713",
         "https://www.reduno.com.bo/play",
+        "https://www.dailymotion.com/embed/video/xarufnm?syndication=278713",
         "https://www.reduno.com.bo",
         "https://rudo.video/live/reduno",
         "https://www.dailymotion.com/embed/video/k3IMZ2j8woY8WbCNDcM?syndication=278713",
@@ -8234,13 +8234,10 @@
     "categoría": "news"
   },
   "red-bolivision-Canal-5": {
-    "nombre": "RED Bolivision - Canal 5",
+    "nombre": "RED Bolivision - TDT MULTIMEDIA HD - Canal 5",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
-        "https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/ts:abr.m3u8",
         "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
         "https://www.boliviatv.bo/principal/vivo71.php",
         "https://www.redbolivision.tv.bo/envivo-canal-5/",
@@ -8253,16 +8250,14 @@
         "https://rumble.com/v6r6wu2-u.s.-bombs-yemen-d.c.-only-cares-about-a-leak-uk-journalist-addresses-spy-a.html"
       ],
       "m3u8_url": [
-        "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-        "https://d3ew2cr4djta2j.cloudfront.net/original.m3u8",
-        "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/ts:abr.m3u8"
+        "https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8",
+        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "https://github.com/12081985EFRAIN/28122024/blob/17df04fd0fd98de2146da0dda48162b70fadbf1f/Pastor#L19",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://raw.githubusercontent.com/12carloshc/canales-de-bolivia-IPTV/main/canales%20de%20bolivia/canales%20de%20bolivia.m3u,https://github.com/12carloshc/canales-de-bolivia-en-vivo/blob/0c8d4b16cbdeff259f0d627b273bc6396da896aa/Urls%20para%20agregar%20al%20reproductor/add%20player%20iptv%20url.txt",
+      "twitch_id": "https://github.com/ashik4u/iptv-m3u-bot"
     },
     "sitio_oficial": "https://www.redbolivision.tv.bo/envivo-canal-5/",
     "país": "bo",
