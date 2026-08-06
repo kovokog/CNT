@@ -28326,7 +28326,7 @@
     "categoría": "news"
   },
   "Baloncesto-Olímpico-TV-IKIM": {
-    "nombre": "PROCOLOMBIA Olímpico TV IKIM",
+    "nombre": "Volleyball World - PROCOLOMBIA OlímpicoTV IKIM",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -28335,12 +28335,12 @@
         "https://www.tvikim.my/live.php"
       ],
       "m3u8_url": [],
-    "yt_id": "",
+    "yt_id": "UCNMg6XDhRZI2QzL4pWOvP_w",
     "yt_embed": "",
     "yt_playlist": "",
-    "twitch_id": ""
+    "twitch_id": "https://www.youtube.com/volleyballworld"
     },
-    "sitio_oficial": "https://www.livetvmalaysia.online/2024/07/basketball.html",
+    "sitio_oficial": "https://www.livetvmalaysia.online",
     "país": "my",
     "categoría": "news"
   },
@@ -28358,7 +28358,7 @@
     "yt_playlist": "",
     "twitch_id": ""
     },
-    "sitio_oficial": "https://www.livetvmalaysia.online/2024/04/badminton.html",
+    "sitio_oficial": "https://www.livetvmalaysia.online",
     "país": "my",
     "categoría": "news"
   },
