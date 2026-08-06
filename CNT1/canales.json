@@ -29071,27 +29071,23 @@
     "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
-        "https://regionales.saohgdasregions.fun/stream.php?canal=lasestrellas&target=3",
-        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=13_",
-        "https://embed.saohgdasregions.fun/embed2/tnt.html",
-        "https://embed.saohgdasregions.fun/embed/tnt.html",
-        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=12_",
-        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
-        "https://embed.saohgdasregions.fun/embed2/lasestrellas.html",
-        "https://embed.saohgdasregions.fun/embed/lasestrellas.html",
-        "https://embed.saohgdasregions.fun/embed2/tntseries.html",
-        "https://embed.saohgdasregions.fun/embed/tntseries.html",
+        "https://www.cablevisionhd.com/stream/core.php?canal=lasestrellas",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=lasestrellas&target=2&sig=a825fda7715f20faf4bc0585d20c058c7180ac6b250c72248bb57035fe1e8b54",
+        "https://www.tvenvivo2.com/live/core.php?canal=lasestrellas",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=lasestrellas&target=1&sig=79ce85e3158454b3bb49db05fdaadd7e5d47bc459d040c57027f31d713155b1f",
+        "https://www.tvenvivo2.com/live/core.php?canal=lasestrellas",
+        "https://embed.saohgdasregions.fun/embed/tntsportschile.php",
         "https://www.golive.cl/tv/nmas-univision",
         "https://www.nmas.com.mx/en-vivo/?canal=forotv",
         "https://www.nmas.com.mx/foro-tv/"
       ],
       "m3u8_url": [
-        "https://estrellatv-roku.amagi.tv/playlist.m3u8",
         "https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8",
         "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true",
         "https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8",
-        "https://github.com/jsosao/m3u/blob/main/mylist.m3u8"
+        "https://github.com/jsosao/m3u/blob/main/mylist.m3u8",
+        "https://estrellatv-roku.amagi.tv/playlist.m3u8"
       ],
     "yt_id": "UCUsm-fannqOY02PNN67C0KA",
     "yt_embed": "UC9SUMV0oYm0XK9H-c3GmKaQ",
