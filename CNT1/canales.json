@@ -29154,15 +29154,18 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://envivo.tvazteca.com/",
+        "https://www.tvazteca.com/tv-azteca-internacional/envivo",
         "https://www.cablevisionhd.com/stream/core.php?canal=azteca7",
         "https://www.cablevisionhd.com/stream3/core.php?canal=azteca7",
         "https://www.cablevisionhd.com/stream/core.php?canal=azteca7",
         "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=1&sig=c7fc19cfb391f99d3f986f3abfee1d93acd812957be8827e6327c5c710ea69f4",
         "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=2&sig=afcae8f896080ceaca2f21385f06392c04c078d56a103dc2a8557521c7528438",
         "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=3&sig=d9e07c7bd097b0c4c6472d5211f8548d697364ce89baba715203eff5bf34ec4a",
-        "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=1",
-        "https://envivo.tvazteca.com/",
-        "https://www.tvazteca.com/tv-azteca-internacional/envivo"
+        "https://www.cablevisionhd.com/stream/core.php?canal=aztecauno",
+        "https://www.cablevisionhd.com/stream2/core.php?canal=aztecauno",
+        "https://www.cablevisionhd.com/stream3/core.php?canal=aztecauno",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=1"
       ],
       "m3u8_url": [
         "https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8",
@@ -35205,22 +35208,16 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://componentes.enlace.org/live/evangelios/#",
+        "https://componentes.enlace.org/live/#",
         "https://enlace.plus/live",
+        "https://iptv-web.app/ES/Historia.es/",
         "https://www.televisiongratishd3.com/live/history.html",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=1",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
-        "https://embed.saohgdasregions.fun/embed2/history2.html",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=3",
-        "https://www.televisiongratishd3.com/live/history2.php",
-        "https://embed.saohgdasregions.fun/embed2/pasiones.html",
-        "https://embed.saohgdasregions.fun/embed2/aztecauno.html",
-        "https://iptv-web.app/ES/Historia.es/"
+        "https://www.cablevisionhd.com/stream/core.php?canal=history",
+        "https://www.cablevisionhd.com/stream2/core.php?canal=history",
+        "https://www.cablevisionhd.com/stream3/core.php?canal=history",
+        "https://www.cablevisionhd.com/stream/core.php?canal=history2",
+        "https://www.cablevisionhd.com/stream2/core.php?canal=history2",
+        "https://www.cablevisionhd.com/stream3/core.php?canal=history2"
       ],
       "m3u8_url": [
         "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
