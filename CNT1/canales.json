@@ -29154,11 +29154,13 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=2",
+        "https://www.cablevisionhd.com/stream/core.php?canal=azteca7",
+        "https://www.cablevisionhd.com/stream3/core.php?canal=azteca7",
+        "https://www.cablevisionhd.com/stream/core.php?canal=azteca7",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=1&sig=c7fc19cfb391f99d3f986f3abfee1d93acd812957be8827e6327c5c710ea69f4",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=2&sig=afcae8f896080ceaca2f21385f06392c04c078d56a103dc2a8557521c7528438",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=3&sig=d9e07c7bd097b0c4c6472d5211f8548d697364ce89baba715203eff5bf34ec4a",
         "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=1",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=2",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=aztecauno&target=2",
-        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_",
         "https://envivo.tvazteca.com/",
         "https://www.tvazteca.com/tv-azteca-internacional/envivo"
       ],
@@ -29171,7 +29173,7 @@
       "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
       "yt_embed": "https://embed.ksdjugfsddeports.com",
       "yt_playlist": "https://github.com/Osares10/ipmx",
-      "twitch_id": ""
+      "twitch_id": "https://www.tvenvivo2.com/"
     },
     "sitio_oficial": "https://www.goltvgo.com/en-vivo/azteca-internacional/",
     "país": "mx",
@@ -29191,7 +29193,7 @@
     "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
     "yt_embed": "",
     "yt_playlist": "https://www.youtube.com/aztecanoticias",
-    "twitch_id": ""
+    "twitch_id": "https://embed.saohgdasregions.fun/"
     },
     "sitio_oficial": "https://www.tvazteca.com/aztecanoticias/",
     "país": "mx",
