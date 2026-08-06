@@ -8043,8 +8043,8 @@
         "http://190.181.18.82:4111/play/a006/index.m3u8?start=LIVE&end=END",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCaIoV23UMZNifJ3G-djMU-Q",
+      "yt_embed": "s4fweliIJ6o?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -8075,8 +8075,8 @@
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
         "https://github.com/GatoJustiniano/M3U-Bolivia-SCZ/blob/main/canales-bolivia.m3u"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCBTuUY99I5plMaC_ZcmXIYw",
+      "yt_embed": "uEMb5V_dX0Y?",
       "yt_playlist": "https://github.com/iptv-org/iptv/blob/93870526abb45c0ed0180ab2151c69cf9c96b0a0/streams/bo.m3u#L189",
       "twitch_id": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
     },
@@ -8085,7 +8085,7 @@
     "categoría": "news"
   },
   "Tv-Megavision": {
-    "nombre": "Tv Megavision",
+    "nombre": "Megavision - BoliviaTVOficial ",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
@@ -8093,9 +8093,9 @@
         "https://tvmegavision.com/"
       ],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
+      "yt_id": "UCwdvHc_u6P8CNoQ2JaVMF6A",
+      "yt_embed": "DvECH4tJWi8?",
+      "yt_playlist": "https://www.youtube.com/@BoliviaTVOficial-Mltmd",
       "twitch_id": "megavisionbo"
     },
     "sitio_oficial": "https://tvmegavision.com/",
@@ -8183,6 +8183,7 @@
         "https://www.unicatvbolivia.com/",
         "https://tvinsur.com/bolivia/canal-unica-tv-de-bolivia-en-vivo/",
         "https://in.tv.bo/en-vivo/",
+        "https://www.boliviatv.bo/principal/vivo71.php",
         "https://www.globaltvapp.net/notiuno-tv",
         "https://iptvplay.stream/catv-pr",
         "https://www.audiokiss.com/tvlatina/"
@@ -8235,7 +8236,7 @@
   },
   "red-bolivision-Canal-5": {
     "nombre": "RED Bolivision - TDT MULTIMEDIA HD - Canal 5",
-    "logo": "https://television-libre.online/img/rcn.webp",
+    "logo": "https://television-libre.online/img/rcn.webphttps://github.com/12carloshc/canales-de-bolivia-IPTV",
     "señales": {
       "iframe_url": [
         "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
@@ -8251,6 +8252,7 @@
       ],
       "m3u8_url": [
         "https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
+        "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8",
         "https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8",
         "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
       ],
