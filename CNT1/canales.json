@@ -11008,13 +11008,14 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://regionales.saohgdasregions.fun/stream.php?canal=caracol&target=2",
         "https://moviedays.top/embed-live1.php?v=caracol",
+        "https://embed.saohgdasregions.fun/embed2/caracol.php",
+        "https://embed.saohgdasregions.fun/embed/caracol.php",
+        "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
         "https://play.tdtchannels.com/television/NoticiasCaracolColombia",
         "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
         "https://tv.garden/co/ugDDmzcLdJhWCd",
-        "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
         "https://www.chatytvgratis.net/caracol-colombia/",
         "https://ssh101.com/securelive/index.php?id=c2jultenok",
         "https://chatytvgratis.net/",
@@ -11069,8 +11070,8 @@
       "m3u8_url": [],
       "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
       "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://embed.saohgdasregions.fun/caracol.php",
+      "twitch_id": "https://urlquery.net/report/4553df30-059c-4566-a8ef-74bafef5ce38"
     },
     "sitio_oficial": "https://90minutos.co/",
     "país": "co",
