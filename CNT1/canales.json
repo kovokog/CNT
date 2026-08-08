@@ -6698,17 +6698,18 @@
     "país": "ar",
     "categoría": "news"
   },
-  "Diario10": {
-    "nombre": "Diario10",
+  "Diario10-argentina12": {
+    "nombre": "Diario10 - Argentina12",
     "logo": "https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png",
     "señales": {
       "iframe_url": [
-        "https://panel.host-live.com:2020/VideoPlayer/tvrionegro?autoplay=1"
+        "https://canal10.ar/canal-10-en-vivo/",
+        "https://www.pagina12.com.ar/argentina12/"
       ],
       "m3u8_url": [
         "https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
