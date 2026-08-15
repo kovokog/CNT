@@ -30267,23 +30267,19 @@
     "país": "pe",
     "categoría": "news"
   },
-  "América-Televisión-oficialPE-LiraTV": {
-    "nombre": "América⭐️ Televisión OficialPE",
+  "AméricaTelevisión-oficialPE-LiraTV": {
+    "nombre": "América⭐️Televisión - TeleagroTV",
     "logo": "https://vmvpd.short.gy/ЭС/Америка",
     "señales": {
       "iframe_url": [
+        "https://teleagrotv.com/",
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
         "https://tvivu.com/embed/america-television",
         "https://stream-xhd.com/live1.php?stream=americatv",
-        "https://regionales.saohgdasregions.fun/stream.php?canal=americatv&target=2",
-        "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=20_",
-        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
-        "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429002",
         "https://tvgo.americatv.com.pe/",
         "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
         "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
         "https://player.twitch.tv/?channel=americatv_envivo&parent=americatv_envivo",
-        "https://embed.ksdjugfsddeports.fun/embed2/americatv.html",
         "https://betzta.com/canales.php?stream=america",
         "https://www.tvenvivo.net/america-tv/",
         "https://www.liratv.it/streaming/",
@@ -30755,6 +30751,7 @@
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/latinanoticias",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=3&sig=3265e114b526dd1d76095da238efe5021adebbee26a4d09d5b562b2b5d158d26",
         "https://embed.saohgdasregions.fun/embed2/espnpremiumlat.php",
         "https://embed.saohgdasregions.fun/embed/espnpremiumlat.php",
         "https://embed.saohgdasregions.fun/embed/atv.php",
