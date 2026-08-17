@@ -493,7 +493,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
     "señales": {
       "iframe_url": [
-        "https://www.golive.cl/tv/t13",
         "https://streamx-hd.com/live1.php?stream=laligahypermotion",
         "https://streamx-hd.com/live1.php?stream=disney1",
         "https://stream-xhd.com/channel2/?id=dsports2&t=1782482309921",
@@ -503,8 +502,10 @@
         "https://rudo.video/live/t13?autoplay=true&volume=0",
         "https://elcanaldeportivo.org/directvsports.php",
         "https://elcanaldeportivo.org/dsports.php",
+        "https://www.golive.cl/tv/t13",
         "https://fortalezatv.cl/",
-        "https://www.populartv.cl/"
+        "https://www.populartv.cl/",
+        "https://tvhd2.com/"
       ],
       "m3u8_url": [
         "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
@@ -526,8 +527,8 @@
         "https://github.com/jota-2020/valebot/blob/c153d3bcb30d1a1e046ddad8278572923eb328a9/media/cl.mp3#L20"
       ],
       "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-      "yt_embed": "",
-      "yt_playlist": "https://tvhd2.com/",
+      "yt_embed": "pu2KU7BKL4w?",
+      "yt_playlist": "",
       "twitch_id": "t13envivo"
     },
     "sitio_oficial": "https://www.t13.cl/en-vivo",
@@ -612,6 +613,10 @@
       ],
       "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
       "yt_embed": "w3mXIpmLXig?",
+      "last_youtube_livestreams": [
+        "X3LwGhzHwBc",
+        "EqSqdZfudso"
+      ],
       "yt_playlist": "",
       "twitch_id": "chv_noticias"
     },
