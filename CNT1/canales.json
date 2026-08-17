@@ -455,6 +455,7 @@
         "https://tvivu.com/embed/k-drama-es"
       ],
       "m3u8_url": [
+        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
         "http://181.224.255.210:8001/play/a0s8/index.m3u8",
         "https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8",
@@ -492,19 +493,16 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
     "señales": {
       "iframe_url": [
-        "https://elcanaldeportivo.org/directvsports.php",
-        "https://elcanaldeportivo.org/dsports.php",
-        "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "https://tvhd2.com/vivo/canales.php?stream=directvsports",
-        "https://tvhd2.com/vivo/canales.php?stream=dsports2",
-        "https://tvhd2.com/vivo/canales.php?stream=dsportsplus",
-        "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "https://stream-xhd.com/channel2/?id=dsports1&t=1782482309921",
+        "https://www.golive.cl/tv/t13",
+        "https://streamx-hd.com/live1.php?stream=laligahypermotion",
+        "https://streamx-hd.com/live1.php?stream=disney1",
         "https://stream-xhd.com/channel2/?id=dsports2&t=1782482309921",
         "https://stream-xhd.com/channel3/?id=dsportsplus&t=1782482309921",
         "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
         "https://www.youtube.com/embed/R_V7FhsCPwM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://rudo.video/live/t13?autoplay=true&volume=0",
+        "https://elcanaldeportivo.org/directvsports.php",
+        "https://elcanaldeportivo.org/dsports.php",
         "https://fortalezatv.cl/",
         "https://www.populartv.cl/"
       ],
@@ -524,6 +522,7 @@
         "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
         "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
         "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
+        "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
         "https://github.com/jota-2020/valebot/blob/c153d3bcb30d1a1e046ddad8278572923eb328a9/media/cl.mp3#L20"
       ],
       "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
@@ -574,6 +573,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
     "señales": {
       "iframe_url": [
+        "https://www.golive.cl/tv/chv-noticias",
         "https://stream-xhd.com/live1.php?stream=chilevision",
         "https://stream-xhd.com/live2.php?stream=tntsportschile",
         "https://rudo.video/live/chvn",
@@ -609,7 +609,7 @@
         "https://github.com/DanArea/Xmltv-para-chile/tree/main"
       ],
       "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
-      "yt_embed": "U7MOPDCxfcM?",
+      "yt_embed": "w3mXIpmLXig?",
       "yt_playlist": "",
       "twitch_id": "chv_noticias"
     },
