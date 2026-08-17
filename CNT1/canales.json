@@ -569,11 +569,13 @@
     "categoría": "news"
   },
   "chv-noticias": {
-    "nombre": "CHV Noticias",
+    "nombre": "CHV Noticias - Teleangolradio",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
     "señales": {
       "iframe_url": [
         "https://www.golive.cl/tv/chv-noticias",
+        "https://rudo.video/live/teleangolradio",
+        "https://www.teleangolradio.cl/site/",
         "https://stream-xhd.com/live1.php?stream=chilevision",
         "https://stream-xhd.com/live2.php?stream=tntsportschile",
         "https://rudo.video/live/chvn",
