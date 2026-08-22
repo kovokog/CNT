@@ -23146,12 +23146,14 @@
     "país": "kr",
     "categoría": "news"
   },
-  "KCTV-Live": {
-    "nombre": "KCTV Live",
+  "KCTV-korean-central": {
+    "nombre": "KCTV korean-central",
     "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
     "señales": {
       "iframe_url": [
-        "https://www.kctv.co.kr/"
+        "https://www.kctv.co.kr/",
+        "https://koryo.tv/channel/kctv",
+        "https://globoview.cam/directorio/corea-del-norte/korean-central-television/"
       ],
       "m3u8_url": [
         "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
