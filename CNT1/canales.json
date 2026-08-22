@@ -23093,8 +23093,51 @@
     "país": "kr",
     "categoría": "news"
   },
+  "KBS-WORLD2": {
+    "nombre": "KBS WORLD2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://publiciptv.com/channels/kbsworldkr",
+        "https://tingfm.com/livehouse"
+      ],
+      "m3u8_url": [
+        "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"
+      ],
+      "yt_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "yt_embed": "OxQQsIvJTTU?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tingfm.com/livehouse",
+    "país": "kr",
+    "categoría": "music"
+  },
+  "KBS1-KBS2": {
+    "nombre": "KBS1 - KBS2",
+    "logo": "/upload/vod/20211018-1/c6b2e0f7c8a06960b1e3073256fa20b4.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.ondemandkorea.com/en/player/live?channelId=332&category=lifestyle",
+        "https://www.kbs.co.kr/",
+        "https://www.skpb.live/#32nd-sma-vod",
+        "https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList"
+      ],
+      "m3u8_url": [
+        "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+        "https://stream8.cinerama.uz/1448/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "F9wSag_AEnI?",
+      "yt_playlist": "https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://kpoptv.cc/channel/KBS2/",
+    "país": "kr",
+    "categoría": "news"
+  },
   "kbs-Live": {
-    "nombre": "kbs Live",
+    "nombre": "KBS Live",
     "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
     "señales": {
       "iframe_url": [
@@ -23146,14 +23189,12 @@
     "país": "kr",
     "categoría": "news"
   },
-  "KCTV-korean-central": {
-    "nombre": "KCTV korean-central",
+  "KCTV": {
+    "nombre": "KCTV",
     "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
     "señales": {
       "iframe_url": [
-        "https://www.kctv.co.kr/",
-        "https://koryo.tv/channel/kctv",
-        "https://globoview.cam/directorio/corea-del-norte/korean-central-television/"
+        "https://www.kctv.co.kr/"
       ],
       "m3u8_url": [
         "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
@@ -23186,8 +23227,8 @@
     "país": "kr",
     "categoría": "news"
   },
-  "cchannel Live": {
-    "nombre": "cchannel-Live",
+  "cchannel-Live": {
+    "nombre": "CChannel-Live",
     "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
     "señales": {
       "iframe_url": [
@@ -23830,8 +23871,8 @@
     "país": "kr",
     "categoría": "news"
   },
-  "ytnnews24": {
-    "nombre": "ytnnews24",
+  "ytn-news24": {
+    "nombre": "YTN News24",
     "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
     "señales": {
       "iframe_url": [
@@ -23850,7 +23891,7 @@
     "categoría": "news"
   },
   "ytn2-Live": {
-    "nombre": "ytn2 Live",
+    "nombre": "YTN2 Live",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -23922,26 +23963,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://aqstream.com/twice/tt1/TWICE-TV",
-    "país": "kr",
-    "categoría": "music"
-  },
-  "KBS-WORLD2": {
-    "nombre": "KBS WORLD2",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://publiciptv.com/channels/kbsworldkr",
-        "https://tingfm.com/livehouse"
-      ],
-      "m3u8_url": [
-        "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"
-      ],
-      "yt_id": "UC5BMQOsAB8hKUyHu9KI6yig",
-      "yt_embed": "OxQQsIvJTTU?",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://tingfm.com/livehouse",
     "país": "kr",
     "categoría": "music"
   },
@@ -24242,29 +24263,6 @@
     "país": "kr",
     "categoría": "news"
   },
-  "KBS1-KBS2": {
-    "nombre": "KBS1 - KBS2",
-    "logo": "/upload/vod/20211018-1/c6b2e0f7c8a06960b1e3073256fa20b4.jpg",
-    "señales": {
-      "iframe_url": [
-         "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/11",
-        "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/12",
-        "https://kpoptv.cc/channel/KBS1/",
-        "https://kpoptv.cc/channel/KBS2/"
-      ],
-      "m3u8_url": [
-        "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1734296264&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQyOTYyNjR9fX1dfQ__&Signature=ikrZDCQmBblOMNhWc-7kaNE3DAi3F6~NNtPGduheaQQtuaiMIws1I6iL6EOEymtnHoPWTjSOmUlwrlOKnEj6Rciy-85BFdFiYCE~ZpT75f93gefIeZ9YmOzTKXo1zBwity9QEfwCNvZGModONaWTVefg6h693swPt82LYAdtuofE7NzDRE3gGfWyj2lRIvNj7WqqHxEiCwTeDhpayGzpAmgk0aXQXMK1VpgfM98K516QMhfaurZtWXqw69uGzJMqmepTlVOJ3Lxo7qiDbX0AsMgamv9oKi9I~DB8Mo2LZGIZVh8Ct53vg-J6EEY71lqUDDnkiGK1~H4~3OaiiNvjpQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
-        "https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1734296537&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQyOTY1Mzd9fX1dfQ__&Signature=d-qqXWCLhCV7Qyelt0uvVNdyIzJ2r2gvpzAtO1Y1-Ft7rVR9OK7fTu09x2tGQp8NcwIbl-9OXjuIpF9SyYJw5cmI7mrgha7xwzylPAaFUC7Pkmv7783mDqJem0gp3dS9jgvLO3fCXmbpX6HkPmv1lY3wwdBL0N~YNxQLGLpA1kafF7uxOdNPazmnqc7ShBtvS3PRNxXk8ErcoBNLzNanesrp3fcntm4GXkm9mjPFe9hhXnICVvC5CaqH4L1sta5~gKQUczT~98-hTaOCvNXUC6vrBvQ1SeDKvaA1cn0ENTFZQUYNfmTyh1EwIucoYNC49T2xxFiMJDXn~bMrMrxhkg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://kpoptv.cc/channel/KBS2/",
-    "país": "kr",
-    "categoría": "news"
-  },
   "MNEWS-Live": {
     "nombre": "MNEWS Live",
     "logo": "",
@@ -24339,11 +24337,13 @@
     "país": "kr",
     "categoría": "news"
   },
-  "Elufa-Tv": {
-    "nombre": "Elufa Tv",
+  "Elufa-Tv-korean-central": {
+    "nombre": "ElufaTv - korean-central",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://koryo.tv/channel/kctv",
+        "https://globoview.cam/directorio/corea-del-norte/korean-central-television/",
         "https://player.twitch.tv/?channel=chuo_tv&parent=alplox.github.io"
       ],
       "m3u8_url": [],
