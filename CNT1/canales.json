@@ -28517,7 +28517,6 @@
     "señales": {
       "iframe_url": [
         "https://www.tvmalaysia.live/channel/awani",
-        "https://www.mewatch.sg/channels/LIVE-1-97073?redirect=true&clickToPlay=true",
         "https://bestleague.top//tok.html?get=RWxfR2FyYWdl",
         "https://bolaloca.my/player/3/84",
         "https://la18hd.com/vivo/canales.php?stream=liga1max",
@@ -41581,8 +41580,8 @@
     "país": "sy",
     "categoría": "news"
   },
-  "cna": {
-    "nombre": "CNA",
+  "cna-mewatch": {
+    "nombre": "CNA - Mewatch",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -41590,7 +41589,9 @@
         "https://nguoiviet.tv/aniplus/",
         "https://icanlive.tv/live/26581/cna-3.html",
         "https://www.mewatch.sg/channels/channel-5/97098",
-        "https://globoview.cam/directorio/estados-unidos/alkarma-tv-youth-english/"
+        "https://globoview.cam/directorio/estados-unidos/alkarma-tv-youth-english/",
+        "https://www.mewatch.sg/channels/live-1/97073",
+        "https://www.mewatch.sg/channels/LIVE-1-97073?redirect=true&clickToPlay=true"
       ],
       "m3u8_url": [],
       "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
