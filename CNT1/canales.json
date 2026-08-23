@@ -20520,8 +20520,8 @@
     "país": "it",
     "categoría": "news"
   },
-  "RADIOFRECCIA": {
-    "nombre": "RADIOFRECCIA - TGcom24",
+  "Rete8-Sport-RADIOFRECCIA": {
+    "nombre": "Rete8 Sport - RADIOFRECCIA - TGcom24",
     "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png",
     "señales": {
       "iframe_url": [
@@ -20533,6 +20533,7 @@
       ],
       "m3u8_url": [
         "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
+        "https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8",
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
       ],
       "yt_id": "",
