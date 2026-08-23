@@ -20477,15 +20477,19 @@
     "país": "it",
     "categoría": "news"
   },
-  "Deejay TV": {
-    "nombre": "Deejay TV",
+  "DeejayTV-FriuliTV24": {
+    "nombre": "DeejayTV - FriuliTV24 - Telefriuli",
     "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png",
     "señales": {
       "iframe_url": [
-        "https://www.deejay.it/tv/"
+        "https://www.telefriuli.it/streaming/",
+        "https://www.deejay.it/tv/",
+        "https://friulitv24.it/",
+        "https://www.cafetv24.it/"
       ],
       "m3u8_url": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+        "https://585b674743bbb.streamlock.net/9080/9080/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -20517,13 +20521,18 @@
     "categoría": "news"
   },
   "RADIOFRECCIA": {
-    "nombre": "RADIOFRECCIA",
+    "nombre": "RADIOFRECCIA - TGcom24",
     "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png",
     "señales": {
       "iframe_url": [
-         "https://play.rtl.it/live/17/radiofreccia-radiovisione/"
+        "https://play.rtl.it/live/17/radiofreccia-radiovisione/",
+        "https://www.tgcom24.mediaset.it/diretta/segui-la-diretta-streaming_82547833-02l.shtml",
+        "https://canaleitalia.it/diretta-live-streaming/canale-italia/",
+        "https://www.rete8.it/",
+        "https://canaleitalia.it/"
       ],
       "m3u8_url": [
+        "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
         "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
       ],
       "yt_id": "",
