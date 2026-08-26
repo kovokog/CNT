@@ -4941,24 +4941,22 @@
         "https://rudo.video/live/tvmas",
         "https://xtrematv.com/?num=1",
         "https://www.retroxtv.com/",
-        "https://serenotv.com/video/canal-retrox-tv/",
-        "https://www.youtube.com/embed/BTaSHvWJW5A?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com",
         "https://www.canal26.com/canal26-en-vivo/",
-        "https://5900.tv/canal-26/",
+        "https://5900.tv/buscar?q=canal+26",
         "https://magickids.site/",
         "https://lapachocanal11.com.ar/vivo/",
         "https://www.vivalivetv.com/channel/dreiko-tv",
+        "https://serenotv.com/canal/canal-zylo-cine-nanar/",
         "https://serenotv.com/video/canal-dreiko-tv/",
-        "https://tele-libre.org/en-vivo-online/canal-26/embed.php",
-        "https://tele-libre.org/en-vivo-online/canal-26/embed2.php",
-        "https://www.youtube.com/embed/35LSnUPu5RY?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+        "https://www.vivalivetv.com/channel/biztv",
+        "https://www.youtube.com/embed/BTaSHvWJW5A?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
       ],
       "m3u8_url": [
         "http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
         "https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8"
       ],
       "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
-      "yt_embed": "",
+      "yt_embed": "IzZfcSiZuEI?",
       "yt_playlist": "",
       "twitch_id": ""
     },
