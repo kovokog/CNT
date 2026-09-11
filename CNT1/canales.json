@@ -351,7 +351,6 @@
         "https://rudo.video/live/mega?autoplay=true&volume=0",
         "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkccyEbqhhM3uKOI6Shm-4Q&autoplay=1&mute=1&modestbranding=1&showinfo=0",
-        "https://servilive.com/hybrid-stream-video-widget/angienet",
         "https://sohag1192.github.io/Live-Tv-Server/",
         "https://servertv.online/hybrid-stream-video-widget/demo",
         "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
@@ -377,7 +376,8 @@
         "https://github.com/noteimporta1111/rejrfnq34ifg94tjw/blob/main/chile.m3u",
         "https://www.surtv.cl/?fbclid=IwY2xjawL_ERdleHRuA2FlbQIxMABicmlkETBvTU9GUEE4QklDYk5xMFhLAR5pc8PrTZBjyINKaD3t82Xqo4AAjzu_NIzwwLr5wP7LTo_lrioTUQCil535Gw_aem_DfgvSuuTnbWXvPXuW77wjw",
         "https://angienet-television1.odoo.com/",
-        "https://espectaculosenlinea.blogspot.com/"
+        "https://espectaculosenlinea.blogspot.com/",
+        "https://servilive.com/hybrid-stream-video-widget/angienet"
       ],
       "m3u8_url": [
         "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
@@ -10942,7 +10942,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://moviedays.top/embed-live1.php?v=caracol",
         "https://embed.saohgdasregions.fun/embed2/caracol.php",
         "https://embed.saohgdasregions.fun/embed/caracol.php",
         "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
@@ -10954,14 +10953,15 @@
         "https://ssh101.com/securelive/index.php?id=c2jultenok",
         "https://chatytvgratis.net/",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
-        "https://www.noticiascaracol.com/senal-en-vivo"
+        "https://www.noticiascaracol.com/senal-en-vivo",
+        "https://moviedays.top/embed-live1.php?v=caracol"
       ],
       "m3u8_url": [
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
         "http://147.75.116.250:8586/play/a01r/index.m3u8"
       ],
       "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
-      "yt_embed": "_2ECITmSBQc?",
+      "yt_embed": "XE-HAP0KALo?",
       "yt_playlist": "https://github.com/caliwyr/Software/blob/00c10301AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/IPTV/co.m3u#L4",
       "twitch_id": "https://github.com/lesterguitarrista/listam3u/blob/main/m3u"
     },
@@ -10974,17 +10974,17 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/",
         "https://esvidzy99.co/caracoltv.php",
         "https://www.caracoltv.com/senal-vivo",
-        "https://la20hd.com/vivo/canales.php?stream=caracol",
-        "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/"
+        "https://la20hd.com/vivo/canales.php?stream=caracol"
       ],
       "m3u8_url": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
         "https://github.com/pertenet/listasSSIPTV/blob/6db6ed95b6213673c6dc3639a2164a38025168e6/TDT_TV.m3u"
       ],
       "yt_id": "UCcpE1fmG2qBZatj28bak2ng",
-      "yt_embed": "r3ApAhHiJcE?",
+      "yt_embed": "sPXHJdpAT7Q?",
       "yt_playlist": "",
       "twitch_id": ""
     },
