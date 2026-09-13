@@ -30159,10 +30159,9 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://irtp-player.iblups.com/tvperuhd",
-        "https://irtp-player.iblups.com/tvperuhd",
-        "https://irtp-player.iblups.com/tvperunoticias",
-        "https://irtp-player.iblups.com/tvperuinternacional",
+        "https://irtp-player.iblups.net/tvperunoticias",
+        "https://irtp-player.iblups.net/tvperuhd",
+        "https://irtp-player.iblups.net/tvperuinternacional",
         "https://www.irtpplay.gob.pe/tvperu/envivo",
         "https://deporflix.pe/canales/tv-peru-2/",
         "https://iblups.com/e_tvperu72",
