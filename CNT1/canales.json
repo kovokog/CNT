@@ -45895,7 +45895,7 @@
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "UCdiPSngCBBo_6DBbj7oWNow",
+      "yt_id": "UC6qrG3W8SMK0jior2olka3g",
       "yt_embed": "LP2yUXUBazs",
       "yt_playlist": "",
       "twitch_id": ""
@@ -45904,13 +45904,15 @@
     "país": "us",
     "categoría": "camera"
   },
-  "times-square": {
-    "nombre": "Times Square Live 4K",
-    "logo": "",
+  "FloridaNewsMiami-times-square": {
+    "nombre": "Florida News Miami - Times Square Live 4K",
+    "logo": "UCYa3ZTs113w3n8AyAqXo4Lw",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://floridanewsmiami.com/senal-en-vivo/"
+      ],
       "m3u8_url": [],
-      "yt_id": "UC6qrG3W8SMK0jior2olka3g",
+      "yt_id": "UCdiPSngCBBo_6DBbj7oWNow",
       "yt_embed": "UVftxDFol90",
       "yt_playlist": "",
       "twitch_id": ""
