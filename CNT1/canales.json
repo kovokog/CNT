@@ -7029,15 +7029,16 @@
     "país": "am",
     "categoría": "news"
   },
-  "skynew": {
-    "nombre": "SKY NEW",
+  "skynew-SkyNewsExtra1": {
+    "nombre": "SKY NEW - SkyNewsExtra1",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.skynews.com.au/"
+        "https://www.skynews.com.au/",
+        "https://symphonier.com/tv/skynewsextra1"
       ],
       "m3u8_url": [
-        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=a23bc6f6-63ee-4be4-a894-19b700cc3ccf&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=e76563c5-b4a4-42d1-a501-2131911f1f70&userId=&serverSideAds=true"
+        "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
       ],
       "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ",
       "yt_embed": "YDvsBbKfLPA?",
@@ -7048,15 +7049,17 @@
     "país": "au",
     "categoría": "news"
   },
-  "gbnews": {
-    "nombre": "GB NEWS",
+  "6PR-3AW-gbnews": {
+    "nombre": "6PR - 3AW - GB NEWS",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.gbnews.com/"
+        "https://www.gbnews.com/",
+        "https://symphonier.com/tv/3aw",
+        "https://symphonier.com/tv/6pr"
       ],
       "m3u8_url": [
-        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=a23bc6f6-63ee-4be4-a894-19b700cc3ccf&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=e76563c5-b4a4-42d1-a501-2131911f1f70&userId=&serverSideAds=true"
+        ""
       ],
       "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
       "yt_embed": "QliL4CGc7iY?",
@@ -7072,11 +7075,12 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.livehdtv.com/yayin/?kanal=370&yayin=abc-news-australia&guvenlik=$2y$10$kDfsl4Q/93dnUyFYLVglu.X2/IJT1md33bg0VTmQkKRhHJ8E4Um5G",
-        "https://www.livehdtv.com/embed/abc-news-australia/",
+        "https://symphonier.com/tv/abc-tvnsw",
         "https://www.abc.net.au/news/"
       ],
       "m3u8_url": [
+        "https://c.mjh.nz/abc-wa.m3u8",
+        "https://c.mjh.nz/abc-nsw.m3u8",
         "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
       ],
       "yt_id": "UCVgO39Bk5sMo66-6o6Spn6Q",
