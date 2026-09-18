@@ -30307,6 +30307,7 @@
         "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
       ],
       "m3u8_url": [
+        "http://190.93.224.42/AMERICA-TV/index.m3u8",
         "http://38.252.213.215:8000/play/a01a/index.m3u8",
         "http://148.222.230.144:8000/play/a036/index.m3u8",
         "http://148.222.230.144:8000/play/a036/index.m3u8",
@@ -31495,7 +31496,7 @@
         "https://watch.islamchannel.tv/live/?_gl=1*127ggy8*_ga*NjY0MDgxNjQwLjE3NDI5MTIxMTA.*_ga_2S14VJ5F5D*MTc0MjkxMjEwOS4xLjAuMTc0MjkxMjEwOS42MC4wLjA."
       ],
       "m3u8_url": [
-        "https://live-evg1.tv360.bitel.com.pe/bitel/cajamarcatv/chunks.m3u8",
+        "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
         "https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8",
         "https://s.oxax.tv/T7JQwcBPzHtFTUqYBpE8sQ/22/1742930561/index.m3u8",
         "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8"
