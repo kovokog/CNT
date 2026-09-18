@@ -30307,6 +30307,8 @@
         "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
       ],
       "m3u8_url": [
+        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8",
+        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
         "http://190.93.224.42/AMERICA-TV/index.m3u8",
         "http://38.252.213.215:8000/play/a01a/index.m3u8",
         "http://148.222.230.144:8000/play/a036/index.m3u8",
@@ -30319,6 +30321,9 @@
         "http://181.188.216.5:18000/play/a014/index.m3u8",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/430207",
         "http://38.199.5.160:8000/play/a05f/index.m3u8",
+        "http://190.93.224.42/ATV-PLUS/index.m3u8",
+        "https://github.com/lanzoking/iptv/blob/83c4457ba48db3cd9d468fd4ca01e1e07e893ade/streams/pe.m3u#L25",
+        "https://ecuatvhd.github.io/ecuatv/clarp.html?url=",
         "https://github.com/nestor223/canalesdetv_m3u/blob/main/canalesdetv_m3u",
         "https://github.com/ottlat/ottlat.github.io/blob/463c0be246f8669e4c3c20b25a4d194acf058970/%7C%3Er3M!uM.m3u#L111"
       ],
@@ -30467,8 +30472,8 @@
     "país": "pe",
     "categoría": "news"
   },
-  "congreso": {
-    "nombre": "CONGRESOTV - CANAL N",
+  "congreso-CVNTVpe@SD": {
+    "nombre": "CONGRESOTV - CANAL N - CVNTV.pe@SD - DeltaTV.pe@SD - MO Channel",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30476,6 +30481,9 @@
         "https://ecuatvhd.github.io/ecuatv/clarp.html?url=https://www.youtube.com/embed/live_stream?channel=UCBBfJ9Y_Cl3AA10wGz7jxXQ"
       ],
       "m3u8_url": [
+        "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+        "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+        "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
         "http://8.243.126.131:8000/play/a058/index.m3u8?start=LIVE&end=END",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429012?start=LIVE&end=END",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429026",
@@ -30506,10 +30514,14 @@
     "categoría": "news"
   },
   "MovistarDeportes-QuatroTvGO": {
-    "nombre": "Movistar Deportes - QUATRO TVGO",
-    "logo": "",
+    "nombre": "Movistar Deportes - QUATRO TVGO - NacionalTvPeru.pe@SD - NZKTelevision.pe@SD - Radio Chalaca - SiscomTV.pe@SD",
+    "logo": "TVMAR.pe@SD-ZeleveTV.pe@SD-Wtv.pe@SD-WEST.pe@SD-WayraTV.pe@SD-UnicentroTV.pe@SD",
     "señales": {
       "iframe_url": [
+        "https://siscomtv.com/tv.php",
+        "https://sintoniza.tv/canal/unicentro-tv/",
+        "https://zelevesuperradio.com.pe/",
+        "https://tvmar.tv/puerto-vallarta/en-vivo",
         "https://la20hd.com/vivo/canales.php?stream=movistar",
         "https://la20hd.com/vivo/canales.php?stream=telefe",
         "https://la20hd.com/vivo/canales.php?stream=tycinternacional",
@@ -30533,6 +30545,12 @@
         "https://player.twitch.tv/?autoplay=false&channel=quatrotvgo&height=100%25&parent=tvgratisperu.com&referrer=https%3A%2F%2Ftvgratisperu.com%2Fpages%2Fperu%2Fre%2Fquatrotvgo_op1.php&width=100%25"    
       ],
       "m3u8_url": [
+        "https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8",
+        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+        "https://eu1.servers10.com:8081/8258/index.m3u8",
+        "https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8",
+        "https://servilive.com:3414/hybrid/play.m3u8",
+        "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8",
         "https:\/\/deportes.ksdjugfsddeports.com:9092\/MTc5LjYuNi4xMDM=\/3_.m3u8?token=CZkzfWAT5Bz-JLRh6RZxqA&expires=1781659898",
         "https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuNi4xMDM=/3_.m3u8?token=d4VjPnC35W0xmD3uMnXk4Q&expires=1781660090"
       ],
@@ -30546,10 +30564,12 @@
     "categoría": "news"
   },
   "FoxSports-QUATROTV-RadioMaster-MetropolitanadelCuzco": {
-    "nombre": "Fox Sports - QUATROTV - RadioMaster",
+    "nombre": "Fox Sports - QUATROTV - RadioMaster - SolarTelevision.pe@SD - StudioPascoTV.pe@SD",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://villaskireres.cat/",
+        "https://corporacionsolar.com.pe/tv/index.html",
         "https://iptv-web.app/PE/RadioMaster.pe/",
         "https://iptv-web.app/PE/MetropolitanadelCuzco.pe/",
         "https://la18hd.su/vivo/canales.php?stream=foxsports",
@@ -30573,7 +30593,9 @@
         "https://la20hd.com/vivo/canales.php?stream=foxdeportes",
         "https://tvcuatro.tv/4-2/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -30734,6 +30756,8 @@
         "https://www.nvivu.com/watch/atv/af461fed-9da4-4e19-8515-6f21a0e771ee"
       ],
       "m3u8_url": [
+        "http://190.93.224.42/ATV/index.m3u8",
+        "https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8",
         "http://8.243.126.131:8000/play/a01z/index.m3u8?hls",
         "http://181.224.255.210:8001/play/a0s6/index.m3u8?hls",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429004",
