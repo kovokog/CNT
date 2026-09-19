@@ -41445,16 +41445,15 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.wowelsalvador.com/",
         "https://player.kick.com/wowtv-sv",
         "https://www.wowmx.tv/",
-        "https://www.wowelsalvador.com/",
         "https://www.canalesdelsalvadorenvivo.com/2024/12/canal-21-en-vivo.html",
         "https://vercanal.com/tv-el-salvador/10-tves/",
-        "https://www.wowt.com/livestream/",
         "https://kick.com/wowtv-sv"
       ],
       "m3u8_url": [
-        "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+        "https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -44573,11 +44572,12 @@
     "categoría": "news"
   },
   "cbs58-news": {
-    "nombre": "CBS58 News",
+    "nombre": "CBS58 News - FIRTS 6 ALERT",
     "logo": "https://newscdn2.weigelbroadcasting.com/j9kqz-1579122951-70-image_feeds-58%20News%20Live.jpg",
     "señales": {
       "iframe_url": [
-        "https://www.cbs58.com/stream/live-stream-1"
+        "https://www.cbs58.com/stream/live-stream-1",
+        "https://www.wowt.com/livestream/"
       ],
       "m3u8_url": [
         "https://video.cbs58.com/live/wdjt/live1/live1.m3u8"
