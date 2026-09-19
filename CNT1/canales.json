@@ -7964,7 +7964,7 @@
     "categoría": "news"
   },
   "red-uno-bolivia": {
-    "nombre": "Red uno Bolivia",
+    "nombre": "Red uno Bolivia - Red Rubi Beni",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
@@ -7974,7 +7974,8 @@
         "https://rudo.video/live/reduno",
         "https://www.dailymotion.com/embed/video/k3IMZ2j8woY8WbCNDcM?syndication=278713",
         "http://190.181.18.82:4111/play/a005/index.m3u8?start=LIVE&end=END",
-        "https://www.boliviapuntotv.com/red-uno/"
+        "https://www.boliviapuntotv.com/red-uno/",
+        "https://tv.rafusoft.com/c/RedCCTV.bo"
       ],
       "m3u8_url": [
         "http://190.181.18.82:4111/play/a005/index.m3u8?start=LIVE&end=END",
@@ -7983,8 +7984,8 @@
       ],
       "yt_id": "UCaIoV23UMZNifJ3G-djMU-Q",
       "yt_embed": "s4fweliIJ6o?",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/cinecity.net/test.m3u",
+      "twitch_id": "https://github.com/sswwswsw/sswwswsw.github.io/blob/7b582f81edeec0b67158df5c08954b4ea29fcbc1/list/bo/bo.m3u#L21"
     },
     "sitio_oficial": "https://www.reduno.com.bo/senal-en-vivo",
     "país": "bo",
@@ -7997,14 +7998,15 @@
       "iframe_url": [
         "https://mdstrm.com/live-stream/692b7e7ac84183fcf9e3462d?jsapi=true&player=69132f19f5398246a0193ebe",
         "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
-        "https://redpalenque.com/",
+        "https://unitel.bo/television/vivo",
         "https://www.ntn24.com/en-vivo",
         "https://www.dailymotion.com/video/x7vsfua",
         "https://television.unitel.bo",
         "https://www.boliviapuntotv.com/unitel/",
         "https://www.dailymotion.com/video/x7vsezg",
         "https://iptv-web.app/BO/TeleFeBolivia.bo/",
-        "https://iptv-web.app/BO/UnitelCochabamba.bo/"
+        "https://iptv-web.app/BO/UnitelCochabamba.bo/",
+        "https://redpalenque.com/",
       ],
       "m3u8_url": [
         "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
@@ -8208,6 +8210,8 @@
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
+        "https://www.atb.com.bo/atb-en-vivo/",
+        "https://www.dailymotion.com/video/x84eirw",
         "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
         "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
         "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
