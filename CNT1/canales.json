@@ -7586,7 +7586,8 @@
     "señales": {
       "iframe_url": [
         "http://hz1.teleport.cc/HD.html",
-        "http://hz1.teleport.cc/SD.html"
+        "http://hz1.teleport.cc/SD.html",
+        "https://telik.live/1hd.html"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -7602,7 +7603,11 @@
     "nombre": "Belarus 1",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://belarus24.by/",
+        "https://www.allufa.ru/live/",
+        "https://tvradio-online.com/es/pais-de-la-television/ru/"
+      ],
       "m3u8_url": [
         "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
         "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
@@ -24747,34 +24752,20 @@
     "país": "kh",
     "categoría": "news"
   },
-  "WIKI-TV": {
-    "nombre": "WIKI TV",
+  "game-mastertv-WIKI-TV": {
+    "nombre": "Game MasterTV - WIKI TV",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://eja.tv/play/?https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8#9d9871b6faeb12bab94b24704f3fc73e1ca43fa1a117057bc8717b0e72a96150",
         "http://mekongtv.net/channels/wikitv",
         "https://onlinetvplayer.com/play/#7w0p3m0z",
-        "https://seehd24.com/live?ch=wikitv2&chh=local"
+        "https://seehd24.com/live?ch=wikitv2&chh=local",
+        "https://eja.tv/?country=kh"
       ],
       "m3u8_url": [
         "http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1725480205&mtvhash=0fWTmiHmGADQvd_MGVUcndbN6mOQgpjfaK_FF_WqD7Y="
       ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://eja.tv/?country=kh",
-    "país": "kh",
-    "categoría": "news"
-  },
-  "game-master-tv": {
-    "nombre": "Game Master TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
       "yt_id": "UC1AFNoYDu-Rub31kwug5drA",
       "yt_embed": "jB152vCnkBI",
       "yt_playlist": "",
@@ -24783,6 +24774,25 @@
     "sitio_oficial": "https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA",
     "país": "kh",
     "categoría": "classic"
+  },
+  "silkwayTV": {
+    "nombre": "SilkwayTV - Qazaqstan",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://silkwaytv.kz/en",
+        "https://qazaqstan.tv/live",
+        "https://teleonline.org/canales/kazajstan/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://silkwaytv.kz/en",
+    "país": "kz",
+    "categoría": "news"
   },
   "Lao-LiveTV-Free-CF": {
     "nombre": "LONE SINH LAO TV",
@@ -26555,7 +26565,15 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.etaplius.tv/"
+        "https://www.etaplius.tv/",
+        "https://lietuvoskameros.lt/en/televizijos-kanalai/lietuvos-rytas-tv-3/",
+        "https://lietuvoskameros.lt/en/televizijos-kanalai/lietuvos-rytas-tv-3/",
+        "https://rodo.lt/tiesiogiai/lrt",
+        "https://teleonline.org/canal/lietuvos-rytas-tv/",
+        "https://teleonline.org/canal/lrt-klasika/",
+        "https://teleonline.org/canal/lrt-opus/",
+        "https://teleonline.org/canal/lrt-radijas/",
+        "https://teleonline.org/canal/2-tv/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -39565,7 +39583,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
     "señales": {
       "iframe_url": [
-        "https://www.livehdtv.com/yayin/?kanal=248&yayin=&guvenlik=$2y$10$LrXA3fYzvqYWzqbCesxske7JYJgI83hnp5lOqckF5E47WJ2E.XVy.",
+        "https://vgtrk.ru/rtrplaneta",
         "https://smotrim.ru/channel/1",
         "https://player.smotrim.ru/iframe/live/uid/ff741527-299e-44e7-9878-85738d320763/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/sdk/2",
         "https://vgtrk.ru/russiatv",
@@ -39630,7 +39648,7 @@
     "país": "ru",
     "categoría": "news"
   },
-  "3 TB": {
+  "3-TB": {
     "nombre": "3 TB",
     "logo": "",
     "señales": {
@@ -39898,7 +39916,7 @@
     "logo": "http://ip.viks.tv/posts/2018-12/1543637572_rentv.png",
     "señales": {
       "iframe_url": [
-        "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
+        "https://www.1tv.ru/",
         "https://static.1tv.ru/eump/embeds/1tv_live.html?__paranja=yes&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
         "http://ip.viks.tv/346-ren-tv_6.html",
         "http://live.viks.tv/105230-24-tehno.html",
@@ -39972,7 +39990,9 @@
     "señales": {
       "iframe_url": [
         "http://ip.viks.tv/421-1000-russkoe-kino_14.html",
-        "https://ip.ontivi.net/022121-fx-tv.html"
+        "https://ip.ontivi.net/022121-fx-tv.html",
+        "https://www.kaufbei.tv/tvshop/",
+        "https://pobeda.tv/"
       ],
       "m3u8_url": [],
       "yt_id": "",
