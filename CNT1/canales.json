@@ -4812,6 +4812,7 @@
     "señales": {
       "iframe_url": [
         "https://tn.com.ar/envivo/24hs/",
+        "https://www.parsatv.com/embed.php?name=Todo-Noticias&auto=false",
         "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363280",
         "https://www.youtube.com/embed/cb12KmMMDJA?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Ftn.com.ar&widgetid=1",
         "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363386"
@@ -29100,6 +29101,7 @@
         "https://www.parsatv.com/embed.php?name=Telemundo-Accion&auto=false",
         "https://www.parsatv.com/embed.php?name=Telemundo&auto=false",
         "https://regionales.saohgdasregions.fun/stream.php?canal=telemundo51&target=2",
+        "https://www.parsatv.com/embed.php?name=Newsmax-Spanish&auto=false",
         "https://vix.com/es-es/canales?lang=canales",
         "https://la20hd.com/vivo/canales.php?stream=telemundo",
         "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=9_",
@@ -29125,6 +29127,7 @@
     "señales": {
       "iframe_url": [
         "https://envivo.tvazteca.com/",
+        "https://www.parsatv.com/embed.php?name=TV-Azteca&auto=false",
         "https://www.tvazteca.com/tv-azteca-internacional/envivo",
         "https://www.cablevisionhd.com/stream/core.php?canal=azteca7",
         "https://www.cablevisionhd.com/stream3/core.php?canal=azteca7",
