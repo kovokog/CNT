@@ -12876,6 +12876,7 @@
         "https://espanol.cgtn.com/en-directo",
         "https://tvivu.com/embed/cgtn-spanish",
         "https://tvivu.com/embed/voa-tv-china",
+        "https://www.parsatv.com/embed.php?name=CGTN-Spanish&auto=false",
         "https://hlsplayer.net/embed?type=m3u8&src=https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://www.hlsplayer.org/play?url=https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://livepush.io/hlsplayer/index.html?src=https%3A%2F%2Fhls-harbor-livepush.akamaized.net%2Flive_cdn%2FnsqIStpj8PaG-Ev%2FemcQJ0pGpremocy%2Findex.m3u8",
@@ -18100,6 +18101,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.parsatv.com/embed.php?name=France-24-Spanish&auto=false",
         "https://www.youtube.com/embed/Y-IlMeCCtIg?hl=es&showinfo=0&color=white&rel=1&enablejsapi=1&origin=https%3A%2F%2Fwww.france24.com&playsinline=0&embed_config=%7B%22primaryThemeColor%22%3A%22%2300a7e3%22%2C%22relatedChannels%22%3A%5B%22UCUdOoVWuWmgo1wByzcsyKDQ%22%5D%2C%22autonavRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&widgetid=1"
       ],
       "m3u8_url": [],
@@ -20903,11 +20905,13 @@
     "país": "it",
     "categoría": "news"
   },
-  "RTA-RadiotivuazzurraTV": {
-    "nombre": "RTA Radiotivuazzurra TV",
+  "RTA-RadiotivuazzurraTV-TeleTicino": {
+    "nombre": "RTA RadiotivuazzurraTV - TeleTicino",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.parsatv.com/embed.php?name=TeleTicino&auto=false"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
