@@ -51,6 +51,7 @@
     "logo": "https://vivotv.lat/-https://gist.github.com/ahmadarif/d707ed2a80cc7afd7c7283dbe888e64d",
     "señales": {
       "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCYxRlFDqcWM4y7FfpiAN3KQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://zonahost.in/multicanal/",
         "https://telewebion.ir/live/tv1",
         "https://www.fox26houston.com/",
@@ -45622,19 +45623,21 @@
     "categoría": "news"
   },
   "30a-tv": {
-    "nombre": "30A TV Business",
+    "nombre": "30A TVBusiness - The White House",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://30a-tv.com/30a/the-first-timers/",
         "https://30a-tv.com/30a/30atvchannel/",
-        "https://www.livehdtv.com/embed/30a-tv/"
+        "https://www.livehdtv.com/embed/30a-tv/",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCYxRlFDqcWM4y7FfpiAN3KQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://www.whitehouse.gov/"
       ],
       "m3u8_url": [
         "https://30a-tv.com/feeds/vidaa/firsttimers.m3u8",
         "https://30a-tv.com/feeds/720p/33.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UCYxRlFDqcWM4y7FfpiAN3KQ",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
