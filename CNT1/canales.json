@@ -23865,16 +23865,19 @@
     "país": "kr",
     "categoría": "news"
   },
-  "WShopping-Live": {
-    "nombre": "WShopping Live",
+  "C채널방송-실시간 방송-WShoppingLive": {
+    "nombre": "C채널방송: 실시간 방송 - WShopping Live",
     "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
     "señales": {
       "iframe_url": [
         "https://v.kr.kollus.com/s?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHB0Ijo0MTAyNDQ4NDAwLCJtYyI6W3sibWNrZXkiOiJSYWdDZmFvUyIsInRpdGxlIjoid3Nob3BpbmciLCJsaXZlIjp7InVybCI6Imh0dHBzOi8vbGl2ZW91dC5jYXRlbm9pZC5uZXQvbGl2ZS0wNS13c2hvcHBpbmcvd3Nob3BwaW5nXzE1MDBrL3BsYXlsaXN0Lm0zdTgifX1dfQ.ajlIVbP51uISt0b1EXydS1406QM-J2X1iU8Pw-eBmgQ&custom_key=093d202e67f5debb326cdd22332627fcf5a4571eca470307169d2a7daafbea57",
-        "https://w-shopping.co.kr/"
+        "https://w-shopping.co.kr/",
+        "https://www.cchannel.com/",
+        "https://globetv.app/tv/south-korea/c-2",
+        "https://globetv.app/tv/country/south-korea"
       ],
       "m3u8_url": [],
-      "yt_id": "",
+      "yt_id": "UC9Ac9DjBEmNqjAYxf8V1HPA",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
