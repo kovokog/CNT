@@ -119,7 +119,7 @@
   },
   "FOX-NEW": {
     "nombre": "FOX-NEWS - Business Today- ECOTV - MI FLOLKLORE - FOX SOUL - LRT Lituanica",
-    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png- UC1FbPiXx59_ltnFVx7IxWow",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
@@ -160,7 +160,7 @@
         "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
         "https://github.com/ClementeCEO/TVus"
       ],
-      "yt_id": "UC1FbPiXx59_ltnFVx7IxWow",
+      "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
       "yt_embed": "wt6SIE7BXS8?",
       "yt_playlist": "https://www.youtube.com/@Foxweather",
       "twitch_id": "https://tocsindata.com/watch?channel_id=3127----https://github.com/WildContagion/TV/blob/7f06e41f84a4c600ef0d5c07f29cede4df9cbfbc/us/us.m3u#L4"
