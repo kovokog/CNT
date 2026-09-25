@@ -30331,6 +30331,9 @@
     "señales": {
       "iframe_url": [
         "https://teleagrotv.com/",
+        "https://www.tvporinternet.org/live2/core.php?canal=americatv",
+        "https://regionales.saohgdassregions.com/stream.php?canal=americatv&target=2&sig=045cfe957805c7b5ddf6fc7d264503e1b36a2e6e226fe8ef5bb7f8d578c25b2b",
+        "https://streamtp-golden1.click/global1.php?stream=winplus",
         "https://stream-xhd.com/live1.php?stream=americatv",
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
         "https://tvivu.com/embed/america-television",
@@ -30342,10 +30345,13 @@
         "https://www.liratv.it/streaming/",
         "https://iptv-web.app/IT/LiraTV.it/",
         "https://liratv.es/",
+        "https://www.tvporinternet.org/america-tv-en-vivo-online.php",
         "https://tvivu.com/watch/america-television",
+        "https://embed.saohgdassregions.com",
         "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
       ],
       "m3u8_url": [
+        "https:\/\/regionales.saohgdassregions.com\/playlist.php?id=20_&sig=8eb5fcffee6379618ff70ef0aa57af3368d6fff9033253c62c4441ec4c044845",
         "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?manifestfilter=video_bitrate:1-3000000&uid=12536436",
         "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8",
         "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
