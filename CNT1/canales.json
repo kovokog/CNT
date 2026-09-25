@@ -30331,7 +30331,6 @@
     "señales": {
       "iframe_url": [
         "https://teleagrotv.com/",
-        "https://www.tvporinternet.org/live2/core.php?canal=americatv",
         "https://regionales.saohgdassregions.com/stream.php?canal=americatv&target=2&sig=045cfe957805c7b5ddf6fc7d264503e1b36a2e6e226fe8ef5bb7f8d578c25b2b",
         "https://streamtp-golden1.click/global1.php?stream=winplus",
         "https://stream-xhd.com/live1.php?stream=americatv",
@@ -30348,6 +30347,7 @@
         "https://www.tvporinternet.org/america-tv-en-vivo-online.php",
         "https://tvivu.com/watch/america-television",
         "https://embed.saohgdassregions.com",
+        "https://www.tvporinternet.org/live2/core.php?canal=americatv",
         "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
       ],
       "m3u8_url": [
