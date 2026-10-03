@@ -8632,8 +8632,8 @@
     "país": "bo",
     "categoría": "news"
   },
-  "Contacto-Bolivia-FOX-News": {
-    "nombre": "Contacto Bolivia - FOX News",
+  "Contacto-Bolivia-FOX-News-Fastpixtv": {
+    "nombre": "Contacto Bolivia - FOX News - Fastpixtv",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -8642,7 +8642,9 @@
         "https://rumble.com/embed/v6oz04u/?pub=4",
         "https://rumble.com/embed/v6o56uq/?pub=4",
         "https://rumble.com/embed/v6oyz56/?pub=4",
-        "https://rumble.com/embed/v6on2os/?pub=4"
+        "https://rumble.com/embed/v6on2os/?pub=4",
+        "https://www.boliviapuntotv.com/fastpixtv/",
+        "https://www.boliviapuntotv.com/"
       ],
       "m3u8_url": [],
       "yt_id": "UCLfvxJ59q5DJ5N0owaaCrIg",
@@ -8654,12 +8656,20 @@
     "país": "bo",
     "categoría": "news"
   },
-  "fastpixtv": {
-    "nombre": "Fastpixtv",
+  "Hayat-BTR": {
+    "nombre": "Hayat - BTR",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.boliviapuntotv.com/fastpixtv/"
+        "https://www.hayat.ba/gledaj.php",
+        "https://bhrt.ba/uzivo/tv",
+        "https://www.rtvusk.ba/",
+        "https://rtvbn.tv/live",
+        "https://n1info.ba/n1-tv-live-stream/",
+        "https://rtvbn.tv/uzivo",
+        "https://www.rtrs.tv/program/uzivo.php?c=1&bcast_on=0",
+        "https://rtvbn.tv/live",
+        "https://zenicainfo.ba/televizija/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -8667,8 +8677,8 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.boliviapuntotv.com/",
-    "país": "bo",
+    "sitio_oficial": "https://www.rtvbn.com/onlinetv",
+    "país": "ba",
     "categoría": "news"
   },
   "canal-suram-tv": {
