@@ -15348,24 +15348,25 @@
     "país": "ec",
     "categoría": "cristiana"
   },
-  "CanalUno-Ecuador": {
-    "nombre": "Canal Uno Ecuador",
+  "CanalUno-Ecuador-TeleamazonasEcuador": {
+    "nombre": "Canal Uno Ecuador - Teleamazonas Ecuador",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://playerv.voxtvhd.com.br/video/sonorama/1/true/false/V1hwT1UyUkhVbkZYV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZFOVBRPT0rUg==/16:9/YUhSMGNITTZMeTlqWVc1aGJIVnViMlZqZFdGa2IzSXVZMjl0TDNkd0xXTnZiblJsYm5RdmRYQnNi2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/nao/",
         "https://movil.ejeserver.com/video/user/?user=canaluno&vol=no",
+        "https://www.teleamazonas.com/teleamazonas-en-vivo/",
         "https://canalunoecuador.com/"
       ],
       "m3u8_url": [
         "https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCCwRtme3lumNRQXMO2EvCvw",
+      "yt_embed": "GB-9W5REwsM?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://canalunoecuador.com/",
+    "sitio_oficial": "https://www.youtube.com/@TeleamazonasEcuadorOficial",
     "país": "ec",
     "categoría": "news"
   },
