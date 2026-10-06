@@ -10859,16 +10859,19 @@
     "país": "cr",
     "categoría": "news"
   },
-  "video-tour-channel": {
-    "nombre": "Video Tour Channel",
+  "-canal-3-kmk-video-tour-channel": {
+    "nombre": "Canal-3-kmk - Video Tour Channel",
     "logo": "",
     "señales": {
       "iframe_url": [
         "http://popup.play4you.icu/29r1lks6m4",
-        "https://videotourchannel.com/"
+        "https://videotourchannel.com/",
+        "https://online-television.com/es/1227-canal-3-kmk-tv.html",
+        "https://github.com/sosa633/Canales-RD/blob/cc560403635c31a1bd17d0ead42013d215022a89/Canales%20RD.m3u#L454"
       ],
       "m3u8_url": [
-        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -18961,7 +18964,8 @@
         "https://tvocanal23.com/tvo-en-vivo/",
         "https://www.chapintv.com/envivo-canal-7/",
         "https://www.enlace.org/envivo/",
-        "https://www.timesnownews.com/live-tv"
+        "https://www.timesnownews.com/live-tv",
+        "https://www.playgt.net/"
       ],
       "m3u8_url": [
         "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8",
