@@ -18950,8 +18950,8 @@
     "país": "gt",
     "categoría": "cristiana"
   },
-  "ebenezer2-online": {
-    "nombre": "Ebenezer2 - Quesada Tv26",
+  "ebenezer2-Canal13Guatemala-Canal30TVBethel-Canal100Chinique-CanalTVRadioMayaTGBA-ConectadosconDios-IglesiaDelCamino-MASTV-MCNTelevision": {
+    "nombre": "Ebenezer2 - Quesada Tv26 - AmigosTV Chiquimula - Aurora Media Films - BarbeTV - Canal13 (Guatemala",
     "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
     "señales": {
       "iframe_url": [
@@ -18964,7 +18964,18 @@
         "https://www.timesnownews.com/live-tv"
       ],
       "m3u8_url": [
-        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8",
+        "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+        "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+        "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+        "http://190.61.101.11:7050/play/a07f/index.m3u8",
+        "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8",
+        "https://s.emisoras.tv:8081/radiomaya/index.m3u8",
+        "https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8",
+        "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+        "https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8",
+        "https://eu1.servers10.com:8081/8338/index.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -19023,19 +19034,37 @@
     "país": "gt",
     "categoría": "news"
   },
-  "Maxivisión-Canal3regional": {
-    "nombre": "Maxivisión - Canal3regional",
+  "Maxivisión-Canal3regional-Guatevision-MultivisionCanal3-NuestraImagenTV-PenielK&Y-PenielMusical-PenielTVBibliaAbierta-RadioCoatanCanal21-RhemaTV": {
+    "nombre": "Maxivisión - Canal3regional - SASTV - SolTV (Guatemala) - Telecosta (Guatemala) - TVFlorencia - TVMaya - TVS Retro - Vea Canal - Vision TV (Guatemala) - World TV Guatemala",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://canal3regional.com/"
       ],
       "m3u8_url": [
-        "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
+        "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "http://200.115.120.1:8000/play/ca066/index.m3u8",
+        "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
+        "https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8",
+        "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+        "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+        "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
+        "https://s2.tvdatta.com:3112/hybrid/play.m3u8",
+        "http://45.171.64.30:6060/play/a04k/index.m3u8",
+        "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
+        "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
+        "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+        "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
+        "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+        "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+        "http://181.78.106.127:5000/play/ca090/index.m3u8",
+        "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+        "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/Romaxa55/world_ip_tv/blob/8e887dcff1ff2780d850979a4aada873b7738bee/output/gt.m3u#L6",
       "twitch_id": "https://tvguatemalaenvivo.com/public/livetv/watch/maxivision-tv/52"
     },
     "sitio_oficial": "https://github.com/Duartegame/001/blob/5479450ab18fdefcd8e84fe96ea060b7d5d89ca9/free.m3u",
