@@ -11484,11 +11484,12 @@
     "país": "co",
     "categoría": "general"
   },
-  "oasis-tv-Canal-Zoom": {
-    "nombre": "OasisTV- Canal Zoom",
+  "bluradio-oasis-tv-Canal-Zoom": {
+    "nombre": "Bluradio  - OasisTV - Canal Zoom",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.bluradio.com/senal-vivo",
         "https://www.tvlibrehd.com/en-vivo/oasistv",
         "https://www.tvlibrehd.com/en-vivo/oasistv",
         "https://canalzoom.smoothcloud.co/broadcaster/canalzoombr1/live/player",
@@ -11497,7 +11498,7 @@
       "m3u8_url": [
         "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UCUYokk2dJxFZf7NgxTL-ROgZ",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
