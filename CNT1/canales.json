@@ -30448,12 +30448,14 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://smartplay.smartbit.co/rpp/rpptv?platform=web",
-        "https://smartplay.smartbit.co/rpp/rpptv?platform=web",
+        "//rudo.video/live/rpptv",
+        "https://server80.servistreaming.com/hybrid-stream-video-widget/lamegamundial?autoplay=1&mute=1",
+        "https://rpp.pe/tv-vivo",
         "https://lamegamundial.com",
         "https://mdstrm.com/live-stream/68b9f14bd7cd40aa500402b1?autoplay=true&volume=0&title=%20&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F1028310%2FRpp2_rpptv_Video%26description_url%3Dhttp%253A%252F%252Frpp.pe%252F%26tfcd%3D0%26npa%3D0%26sz%3D400x300%257C640x480%26gdfp_req%3D1%26unviewed_position_start%3D1%26output%3Dvast%26env%3Dvp%26impl%3Ds%26correlator%3D23318437120%26vpmute%3D1%26vpa%3D0%26url%3Dhttps%253A%252F%252Frpp.pe%252F%26plcmt%3D1%26vpa%3Dauto%26vpos%3Dpreroll%26vconp%3D2&ads[volume]=0"
       ],
       "m3u8_url": [
+        "https://server80.servistreaming.com:3477/live/lamegamundiallive.m3u8",
         "http://38.199.6.1:17001/play/a0cv//index.m3u8",
         "http://181.176.69.236:8028/play/a0ai/index.m3u8",
         "https://github.com/CRACKED10PRO/TVPREMIUMPLUS_2025/blob/main/1000-TVPREMIUM.M3U8"
